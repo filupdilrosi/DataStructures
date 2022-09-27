@@ -9,7 +9,7 @@ public class Lab6FibonacciSequence {
             return 1;}
         return findFibonacciRecursive(n-1)+findFibonacciRecursive(n-2);
     }
-    public static int findFibonacciIterative(int n){
+    public static int findFibonacciIterative(int n){ //fix this
         if(n == 0){
             return 0;}
         else if(n==1){
