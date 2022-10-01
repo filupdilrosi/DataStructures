@@ -33,6 +33,7 @@ public class insertionSort {
             }
             inputArray[j + 1] = currentValue; //insert
         }
+        
     }
 
     private static void printArray(int[] numbers) {
