@@ -1,4 +1,4 @@
-package Lec12_end_a;
+package LinkedLists;
 
 public class LinkedList {
 
